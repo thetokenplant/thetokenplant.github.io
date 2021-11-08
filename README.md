@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/images/tokencenter-sq.jpg
+heroImage: /assets/images/thetokenplant-sq.jpg
 heroText: TokenCenter
 tagline: Blockchain Enthusiastic
 actionText: Discover More
@@ -8,7 +8,7 @@ actionLink: /#/
 navbar: false
 meta: 
     - property: og:url
-      content: https://tokencenter.github.io/
+      content: https://thetokenplant.github.io/
     - property: og:title
       content: TokenCenter | Blockchain Enthusiastic
     - property: og:description
@@ -20,9 +20,9 @@ meta:
 ---
 
 <p class="social">
-    <a href="https://github.com/tokencenter" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
+    <a href="https://github.com/thetokenplant" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
     <a href="https://twitter.com/" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
     <a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i></a>
     <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-2x fa-instagram"></i></a>
-    <a href="https://tokencenter.medium.com" target="_blank"><i class="fab fa-2x fa-medium-m"></i></a>
+    <a href="https://thetokenplant.medium.com" target="_blank"><i class="fab fa-2x fa-medium-m"></i></a>
 </p>

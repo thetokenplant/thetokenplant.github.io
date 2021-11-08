@@ -1,7 +1,7 @@
 ---
 permalink: terms
 title: Terms and Conditions
-description:  Terms and Conditions for tokencenter.github.io
+description:  Terms and Conditions for thetokenplant.github.io
 navbar: false
 sidebar: false
 meta: 
@@ -12,7 +12,7 @@ meta:
 ## Terms and Conditions
 
 ### Data Controller and Owner
-https://tokencenter.github.io
+https://thetokenplant.github.io
 
 Owner contact email: info@vmlab.it
 
