@@ -7,10 +7,10 @@
     "build": "vuepress build",
     "deploy": "vuepress build && sh scripts/deploy.sh"
   },
-  "author": "TokenCenter (@thetokenplant)",
+  "author": "TheTokenPlant (@thetokenplant)",
   "contributors": [
     {
-      "name": "TokenCenter",
+      "name": "TheTokenPlant",
       "url": "https://github.com/thetokenplant"
     }
   ],

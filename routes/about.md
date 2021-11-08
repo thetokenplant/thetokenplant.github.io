@@ -4,18 +4,18 @@ meta:
     - property: og:url
       content: https://thetokenplant.github.io/about/
     - property: og:title
-      content: TokenCenter | Blockchain Enthusiastic
+      content: TheTokenPlant | Blockchain Enthusiastic
     - property: og:description
       content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
     - property: twitter:title
-      content: TokenCenter | Blockchain Enthusiastic
+      content: TheTokenPlant | Blockchain Enthusiastic
     - property: twitter:description
       content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
 ---
 
 <img :src="$withBase('/assets/images/thetokenplant-sq.jpg')" width="260" alt="thetokenplant">
 
-<h1>TokenCenter</h1>
+<h1>TheTokenPlant</h1>
 
 <b>Blockchain Enthusiastic</b>
 

@@ -10,11 +10,11 @@ meta:
     - property: og:url
       content: https://thetokenplant.github.io/
     - property: og:title
-      content: TokenCenter | Blockchain Enthusiastic
+      content: TheTokenPlant | Blockchain Enthusiastic
     - property: og:description
       content: I'm a Electronics & Software Engineer continually seeking and testing new tools and opportunities for innovation.
     - property: twitter:title
-      content: TokenCenter | Blockchain Enthusiastic
+      content: TheTokenPlant | Blockchain Enthusiastic
     - property: twitter:description
       content: I'm a Electronics & Software Engineer continually seeking and testing new tools and opportunities for innovation.
 ---
