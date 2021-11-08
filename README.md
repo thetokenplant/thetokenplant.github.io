@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /assets/images/thetokenplant-sq.jpg
-heroText: TokenCenter
+heroText: TheTokenPlant
 tagline: Blockchain Enthusiastic
 actionText: Discover More
 actionLink: /#/
@@ -12,11 +12,11 @@ meta:
     - property: og:title
       content: TokenCenter | Blockchain Enthusiastic
     - property: og:description
-      content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
+      content: I'm a Electronics & Software Engineer continually seeking and testing new tools and opportunities for innovation.
     - property: twitter:title
       content: TokenCenter | Blockchain Enthusiastic
     - property: twitter:description
-      content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
+      content: I'm a Electronics & Software Engineer continually seeking and testing new tools and opportunities for innovation.
 ---
 
 <p class="social">
